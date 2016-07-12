@@ -1,0 +1,6 @@
+{
+  "name": "Yoyo-team",
+  "tagline": "YoYo note developing task schedules !",
+  "body": "#Hello,各位小伙伴们，暑假快乐。\r\n\r\n##现在开始我们的任务安排：\r\n\r\n###首先是我们的应用架构\r\n\r\n1，移动端用的是ionic\r\n2，PC端初步打算用SUI加angular2来做\r\n3，数据库用的是mongodb，自己搭建多副本集群\r\n4，服务器端的程序用的是node.js来编写\r\n5，电脑截图监控程序用的是python来编写\r\n\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
