@@ -1,6 +1,6 @@
 {
   "name": "Yoyo-team",
   "tagline": "YoYo note developing task schedules !",
-  "body": "#Hello,各位小伙伴们，暑假快乐。\r\n\r\n##现在开始我们的任务安排：\r\n\r\n###首先是我们的应用架构\r\n\r\n1，移动端用的是ionic\r\n2，PC端初步打算用SUI加angular2来做\r\n3，数据库用的是mongodb，自己搭建多副本集群\r\n4，服务器端的程序用的是node.js来编写\r\n5，电脑截图监控程序用的是python来编写\r\n\r\n\r\n",
+  "body": "#Hello,各位小伙伴们，暑假快乐。\r\n\r\n##现在开始我们的任务安排：\r\n\r\n###首先是我们的应用架构\r\n\r\n1. 移动端用的是ionic\r\n\r\n2. PC端初步打算用SUI加angular2来做\r\n\r\n3. 数据库用的是mongodb，自己搭建多副本集群\r\n\r\n4. 服务器端的程序用的是node.js来编写\r\n\r\n5. 电脑截图监控程序用的是python来编写\r\n\r\n======\r\n\r\n###然后是具体的任务安排\r\n\r\n1. 移动端的开发用的是ionic，这个是在cordova和angular2的基础上建立起来的框架，angular对js的要求极高，而且概念比较超前，不是很好学。\r\n这个部分现在是我在负责。\r\n\r\n2. 服务器端用的是node.js加mongodb，同时用阿里云的oss作为图片存储，这个部分也是我在负责。\r\n\r\n3. 电脑监控程序用的是python，主要负责监控屏幕的变化并且截屏，然后将图片发送到服务器上。这个部分现在是由你们三个负责，你们需要先大致学习一遍python，然后去试着写程序完成相应的功能，遇到问题我们一起解决。同时负责则一部分的还要去了解一下阿里云的oss，学会如何用python向服务器上传文件。\r\n\r\n4. pc端程序，用web前端去写，这个部分由于刘祥丽她想学习前端，就暂时留给她，如果她不能独自完成，那我就和她共同完成这部分。刘祥丽你要是想写这一部分的话，就得先把基础学的牢固一些，然后去了解一下sui这个框架，然后再开始写pc端的程序。\r\n\r\n\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
